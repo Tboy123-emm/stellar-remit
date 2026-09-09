@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/cicd-pipeline",
+    "feat/wallet-integration",
+    "main"
+  ],
+  "parent": {
+    "feat/cicd-pipeline": "main",
+    "feat/wallet-integration": "main",
+    "main": null
+  },
+  "order": [
+    "main",
+    "feat/cicd-pipeline",
+    "feat/wallet-integration"
+  ]
+}

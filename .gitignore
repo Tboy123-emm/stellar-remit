@@ -8,11 +8,10 @@ out/
 apps/web/.env*.local
 
 # Env
-.env
 
 # OS
 .DS_Store
 
 # Editors
-.vscode/
 .idea/
+config.bat
